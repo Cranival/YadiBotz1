@@ -1,7 +1,7 @@
 {
-  "name": "YadiBotz",
+  "name": "Alphabot-Md",
   "version": "1.1.4",
-  "description": "Nothing",
+  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,10 +14,10 @@
     "base",
     "baileys-md"
   ],
-  "author": "Khanip",
+  "author": "ZeeoneOfc",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.3.0",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^7.0.0",
